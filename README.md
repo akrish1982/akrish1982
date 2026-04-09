@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/akrish1982](https://github.com/akrish1982)
 - 💬 Ask me about **Data engineering, SQL, Databases, Data pipelines, Data infrastructure**
-- 📄 My work history [https://www.linkedin.com/in/ananthtirumanur/](https://www.linkedin.com/in/ananthtirumanur/)
+- 📄 My work history [https://www.linkedin.com/in/ananth-tm/](https://www.linkedin.com/in/ananth-tm/)
 - - ⚡ Fun fact: Marathoner & Casual Birding enthusiast
 
 <h3 align="left">Connect with me:</h3>
