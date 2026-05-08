@@ -35,7 +35,7 @@ I design production AI and data platforms for regulated enterprises. My backgrou
 ## Connect
 
 - GitHub: [akrish1982](https://github.com/akrish1982)
-- LinkedIn: [ananth-tm](https://www.linkedin.com/in/ananth-tm/)
+- LinkedIn: [ananthtirumanur](https://www.linkedin.com/in/ananthtirumanur/)
 - X: [@akrish82](https://twitter.com/akrish82)
 - Email: ananth@iexpertify.com
 
