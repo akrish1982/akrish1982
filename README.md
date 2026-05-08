@@ -15,13 +15,13 @@ I design production AI and data platforms for regulated enterprises. My backgrou
 - Built Spark-based regulatory reporting pipelines processing 2TB+ daily across 50+ source systems
 - Reduced AI inference cost by 30% through model routing, caching, and prompt optimization
 
-## Recent Public GitHub Work
+## Recent Public Work
 
+- [real-time-rag](https://caylent.com/blog/introduction-to-real-time-rag): Introduction to Real-Time RAG
 - [data-engineering](https://github.com/akrish1982/data-engineering): AWS data engineering training material, PySpark examples, Glue and Redshift notes, Terraform work, and a broad data-engineering toolbox
 - [social-media-etl](https://github.com/akrish1982/social-media-etl): Kafka-based producer/consumer ETL prototype using Python, Pandas, and Postgres-oriented ingestion patterns
 - [robinhood-trades-to-twitter](https://github.com/akrish1982/robinhood-trades-to-twitter): Python automation that detects Robinhood trades, generates trade cards, tracks state in SQLite, and posts to X
 - [SpellBeetle](https://github.com/akrish1982/SpellBeetle): Python data collection pipeline that extracts dictionary content and persists it to Postgres and Firebase
-- [good-investory](https://github.com/akrish1982/good-investory): early investment-analysis exploration
 
 ## Core Stack
 
