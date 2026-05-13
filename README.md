@@ -16,7 +16,7 @@ I design production AI and data platforms for regulated enterprises. My backgrou
 - Reduced AI inference cost by 30% through model routing, caching, and prompt optimization
 
 ## Recent Public Work
-
+- Deploy OpenClaw with Ollama, Kimi K2.5 (via OpenRouter), and Claude (via Anthropic API/subscription) on an Oracle Cloud Always-Free ARM instance, connected to Telegram. [https://github.com/akrish1982/openclaw_oracle_cloud/](Openclaw with Ollama in OCI)
 - [real-time-rag](https://caylent.com/blog/introduction-to-real-time-rag): Introduction to Real-Time RAG
 - [data-engineering](https://github.com/akrish1982/data-engineering): AWS data engineering training material, PySpark examples, Glue and Redshift notes, Terraform work, and a broad data-engineering toolbox
 - [social-media-etl](https://github.com/akrish1982/social-media-etl): Kafka-based producer/consumer ETL prototype using Python, Pandas, and Postgres-oriented ingestion patterns
